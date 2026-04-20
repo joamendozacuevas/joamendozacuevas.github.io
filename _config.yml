@@ -2,6 +2,13 @@
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "default"
 
+# Plugins necesarios para que no dé error
+plugins:
+  - jekyll-include-cache
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+
 # Información Personal
 author:
   name: "Joaquín Mendoza"
