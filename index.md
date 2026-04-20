@@ -2,8 +2,8 @@
 layout: single
 author_profile: true
 ---
-
-Hola, soy un apasionado por la programación y el desarrollo web. Actualmente estoy estudiando la carrera de Analista Programador para luego continuar con la Igeniería en Informática.
+# 👋 Hola, soy Joaquín
+Soy un estudiante de la carrera Analista Programador, apasionado por la programación y el desarrollo web. Actualmente estoy estudiando la carrera de Analista Programador para luego continuar con la Igeniería en Informática.
 
 ---
 
