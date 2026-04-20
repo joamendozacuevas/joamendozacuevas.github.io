@@ -16,7 +16,7 @@ plugins:
 # Información Personal
 author:
   name: "Joaquín Mendoza"
-  bio: "Estudiante de Analista Programador"
+  bio: "Estudiante Analista Programador"
   location: "Ñuñoa, Chile"
   avatar: "/assets/images/image-joaquin.png"
   links:
