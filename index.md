@@ -16,11 +16,10 @@ Soy estudiante de **Analista Programador** en Inacap, con un fuerte enfoque en e
 
 ### 💼 Experiencia Profesional
 
-#### **Desarrollador Web / Content Management** | Sodimacc
+#### **Diseñador Web / Content Management** | Sodimacc
 * Gestión y administración de contenidos mediante **Contentstack** para plataformas de e-commerce.
 * Implementación de integraciones técnicas y consumo de **APIs de Sodimac** para la optimización de flujos de datos.
 * Desarrollo de soluciones frontend utilizando **Bootstrap** y asegurando estándares de diseño responsivo.
-* Gestión de tickets urgentes y mantenimiento de plataformas críticas de venta online.
 
 ### 🛠️ Habilidades Técnicas
 * **Lenguajes de Programación:** C, C++, Python, JavaScript.
