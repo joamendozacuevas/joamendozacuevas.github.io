@@ -1,0 +1,25 @@
+remote_theme: "mmistakes/minimal-mistakes@docs"
+minimal_mistakes_skin: "default" # El estilo blanco limpio
+
+# Información Personal
+author:
+  name: "Tu Nombre"
+  bio: "Estudiante de Analista Programador"
+  location: "Ñuñoa, Chile"
+  avatar: "/assets/images/foto.jpg" # Luego subiremos la foto
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/tuusuario"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/tuperfil"
+
+# Configuración de la página
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "single"
+      author_profile: true # Esto activa la barra lateral con tu foto
