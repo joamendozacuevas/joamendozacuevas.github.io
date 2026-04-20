@@ -2,18 +2,17 @@
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "default"
 
-# Icono de la pestaña (Favicon)
-# Asegúrate de subir un archivo llamado favicon.png a la carpeta assets/images/
-favicon: "/assets/images/icons8-desarrollador.gif"
+# Título del sitio (el que aparece arriba a la izquierda)
+title: "Joaquín Mendoza"
 
-# Plugins necesarios para que no dé error
+# Plugins necesarios
 plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
 
-# Información Personal
+# Información Personal (Barra lateral)
 author:
   name: "Joaquín Mendoza"
   bio: "Estudiante Analista Programador"
