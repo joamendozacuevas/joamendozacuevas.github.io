@@ -11,7 +11,7 @@ Soy estudiante de **Analista Programador** en Inacap, con un fuerte enfoque en e
 # Currículum Vitae
 
 ### 🎓 Educación
-* **Analista Programador**, Inacap (En curso, 2025 - Presente)
+* **Analista Programador**, Inacap 2025 (En curso)
 * **Ingeniería en Informática**, (Continuidad de estudios proyectada)
 
 ### 💼 Experiencia Profesional
