@@ -16,7 +16,7 @@ Soy estudiante de **Analista Programador** en Inacap, con un fuerte enfoque en e
 
 ### 💼 Experiencia Profesional
 
-#### **Diseñador Web / Content Management** | Sodimacc
+#### **Diseñador Web** | Sodimac
 * Gestión y administración de contenidos mediante **Contentstack** para plataformas de e-commerce.
 * Implementación de integraciones técnicas y consumo de **APIs de Sodimac** para la optimización de flujos de datos.
 * Desarrollo de soluciones frontend utilizando **Bootstrap** y asegurando estándares de diseño responsivo.
@@ -26,7 +26,7 @@ Soy estudiante de **Analista Programador** en Inacap, con un fuerte enfoque en e
 * **Desarrollo Web:** HTML5, CSS3, Bootstrap.
 * **Bases de Datos:** MongoDB (NoSQL), Shell Scripting, modelado de datos.
 * **Infraestructura Cloud:** Conocimientos en AWS, Azure y Google Cloud Platform (VPCs, Firewalls, segmentación de redes).
-* **Herramientas:** Git, GitHub, Contentstack (CMS), integración de APIs.
+* **Herramientas:** Git, GitHub, Contentstack (CMS), Jarvis, integración de APIs.
 
 ### 🚀 Proyectos Destacados
 * **Arquitectura de Seguridad en la Nube:** Investigación y diseño de segmentación de redes en AWS, enfocada en la implementación de Firewalls y Network Security Groups.
