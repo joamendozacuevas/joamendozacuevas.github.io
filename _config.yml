@@ -25,7 +25,7 @@ author:
       url: "https://github.com/joamendozacuevas"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/joaquin-mendoza-designer/" # R
+      url: "https://www.linkedin.com/in/joaquin-mendoza-designer/"
 # Ajustes de la página
 defaults:
   - scope:
